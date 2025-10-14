@@ -1,10 +1,10 @@
-# Template materials in Python
+# Environnement pour l'UE de Génétique Humaine de Claire Leblond - M1 MEG 
 
-Example repository to create an environment with course materials in Python.
+Pour construction sur PlasmaBio adenine
 
 ## Try it on Binder
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/plasmabio/template-python/master?urlpath=%2Flab/)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Scaburet/m1meg-gh-polygen/)
 
 ## Structure of the repo
 

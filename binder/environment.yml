@@ -32,5 +32,6 @@ dependencies:
   # https://github.com/jupyterlab-contrib/jupyter-archive
   - jupyter-archive
   - pip:
+    -r requirements.txt
     # Print module version
     - watermark

@@ -32,6 +32,13 @@ dependencies:
   # https://github.com/jupyterlab-contrib/jupyter-archive
   - jupyter-archive
   - pip:
-    - -r requirement.txt
+    - gwaslab==3.6.8
+    - ldsc==2.0.1
+    - pybedtools==0.11.0
+    - pysam==0.22.1
+    - scikit-allel==1.3.8
+    - statsmodels==0.14.5
+    - statannotations>=0.4.2
+    #- -r requirement.txt
     # Print module version
     - watermark

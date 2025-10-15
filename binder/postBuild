@@ -1,0 +1,2 @@
+# pour forcer l'installation d'une version de pysam qui permet d'importer gwaslab
+pip install --no-build-isolation pysam==0.22.0

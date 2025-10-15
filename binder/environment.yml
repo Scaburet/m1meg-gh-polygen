@@ -15,10 +15,8 @@ dependencies:
   - jupyterlab>=3.2,<4
   - jupyter-resource-usage
   - jupyterlab-topbar
-  - jupyterlab-topbar-extension
   - jupyterlab-topbar-text
   - jupyterlab-system-monitor
-  - jupyter-package-manager
   - nodejs
   # Python environment
   - python>=3.8
@@ -35,6 +33,7 @@ dependencies:
   - jupyter-archive
   - toc-extension
   - pip:
+    - jupyter-package-manager
     - pyarrow==16.0.0
     - gwaslab
     - ldsc==2.0.1

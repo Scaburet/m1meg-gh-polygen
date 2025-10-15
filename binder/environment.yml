@@ -31,9 +31,9 @@ dependencies:
   # Jupyter archive
   # https://github.com/jupyterlab-contrib/jupyter-archive
   - jupyter-archive
-  - toc-extension
   - pip:
     - jupyter-package-manager
+    - toc-extension
     - pyarrow==16.0.0
     - gwaslab
     - ldsc==2.0.1

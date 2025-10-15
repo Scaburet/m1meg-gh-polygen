@@ -17,7 +17,7 @@ dependencies:
   - jupyterlab-topbar
   - jupyterlab-topbar-text
   - jupyterlab-system-monitor
-  - jupyter-toc
+  - jupyterlab-toc
   - nodejs
   # Python environment
   - python>=3.8

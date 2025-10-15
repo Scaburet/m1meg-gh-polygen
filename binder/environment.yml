@@ -19,6 +19,7 @@ dependencies:
   - jupyterlab-system-monitor
   - nodejs
   - bash_kernel
+  - mscorefonts
   # Python environment
   - python>=3.9,<3.13
   - pip>=24.0

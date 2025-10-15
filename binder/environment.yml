@@ -36,6 +36,7 @@ dependencies:
     # Jupyter-package-manager not compatible with the current JupyterLab <4
     #- jupyter-package-manager
     - pyarrow==16.0.0
+    - pysam==0.16.0.1 
     - gwaslab
     - ldsc==2.0.1
     - pybedtools==0.11.0
